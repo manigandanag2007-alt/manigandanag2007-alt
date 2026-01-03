@@ -21,7 +21,6 @@
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 👋 Hi, I’m **Manigandan AG**
-- 🧑‍💻 GitHub: **manigandanag2007-alt**
 - 📱 Flutter & Cross-Platform App Developer
 - 🎨 Frontend Developer (**HTML & CSS**)
 - ☕ Java (Basics)
@@ -60,22 +59,6 @@
 
 <p align="center">
   <b>Design • Develop • Debug • Deploy</b>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manigandanag2007-alt&show_icons=true&theme=radical&hide_title=true&icon_color=FF0080" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manigandanag2007-alt&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manigandanag2007-alt&layout=compact&theme=radical" />
 </p>
 
 ---
