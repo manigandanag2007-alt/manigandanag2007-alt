@@ -1,39 +1,121 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Vibrant Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=230&section=header&text=Manigandan%20AG&fontSize=46&fontColor=ffffff&animation=twinkling" />
+</p>
 
-###
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manigandanag2007-alt&label=Profile%20Views&color=FF0080&style=for-the-badge" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="60" alt="instagram logo"  />
-</div>
+<h3 align="center">⚡ Flutter | Frontend | App Developer</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=FF0080&center=true&vCenter=true&width=650&lines=Flutter+App+Developer;Frontend+Developer+(HTML+%26+CSS);Dart+%7C+Java+Basics;Android+Studio+%7C+VS+Code;Building+Beautiful+Apps" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+- 👋 Hi, I’m **Manigandan AG**
+- 🧑‍💻 GitHub: **manigandanag2007-alt**
+- 📱 Flutter & Cross-Platform App Developer
+- 🎨 Frontend Developer (**HTML & CSS**)
+- ☕ Java (Basics)
+- 🛠️ Android Studio & VS Code
+- 🌱 Focused on clean UI & smooth UX
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manigandanag2007-alt&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💙 Flutter Developer Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3c3YzZxM25rOXFwc2ZlN2p3cHZxODh4c2s1MGV5Z2U1b3p3NHRpNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  <b>Design • Develop • Debug • Deploy</b>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manigandanag2007-alt&show_icons=true&theme=radical&hide_title=true&icon_color=FF0080" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manigandanag2007-alt&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manigandanag2007-alt&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="240"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for stopping by — let’s build something awesome!
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=120&section=footer" />
+</p>
